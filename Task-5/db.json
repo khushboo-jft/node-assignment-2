@@ -1,0 +1,33 @@
+let  empData=[
+    {
+        "names": "arun",
+        "job": "engineer",
+        "salary": "8000",
+        "id": 1
+      },
+      {
+        "names": "vivan",
+        "job": "writer",
+        "salary": "9000",
+        "id": 2
+      },
+      {
+        "names": "twinni",
+        "job": "artist",
+        "salary": "10000",
+        "id": 3
+      },
+      {
+        "names": "rohan",
+        "job": "painter",
+        "salary": "7889",
+        "id": 7
+      },
+      {
+        "names": "arun",
+        "job": "engineer",
+        "salary": "8000",
+        "id": 8
+      }
+
+];
